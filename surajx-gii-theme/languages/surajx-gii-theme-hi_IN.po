@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SurajX GII Theme 1.0.0\n"
+"POT-Creation-Date: 2024-05-01 00:00+0000\n"
+"PO-Revision-Date: 2024-05-01 00:00+0000\n"
+"Language: hi_IN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Codex CLI\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+msgid "Products"
+msgstr "उत्पाद"
+
+msgid "Invoices"
+msgstr "चालान"
+
+msgid "Account"
+msgstr "खाता"
+
+msgid "No products found."
+msgstr "कोई उत्पाद नहीं मिला।"
+
+msgid "No invoices generated yet."
+msgstr "अभी तक कोई चालान नहीं बना है।"
+
+msgid "Loading..."
+msgstr "लोड हो रहा है..."
+
+msgid "Sign in with Google"
+msgstr "Google से साइन इन करें"
